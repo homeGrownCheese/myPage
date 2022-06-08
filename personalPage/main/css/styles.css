@@ -1,0 +1,15 @@
+main{
+	display: inline-block;
+	width: 30%;
+	border: solid #0000ff;
+}
+aside{
+	border: solid #00ff00;
+	width: 20%;
+	display: inline-block;
+	height: 100%;
+}
+h1{
+	text-align: center;
+	text-transform: uppercase;
+}
