@@ -46,7 +46,7 @@ aside{
 }
 
 li progress{
-	text-transform: bold;
+	font-weight: bold;
 }
 
 a{
