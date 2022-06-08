@@ -45,8 +45,12 @@ aside{
 	margin-left: 2%;
 }
 
+li{
+	padding-bottom: 8px;
+}
+
 li progress{
-	font-weight: bold;
+	width: 60%
 }
 
 a{
