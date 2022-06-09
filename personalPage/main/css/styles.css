@@ -10,6 +10,8 @@ body{
 	height: 100%;
 	width: 100%;
 	color: #ffc3c3;
+	background-image: url("../imgs/Space-Art-Wall.jpeg")
+	background-repeat: no repeat;
 }
 
 main{
