@@ -45,18 +45,6 @@ li progress{
 	width: 60%
 }
 
-a{
-	background-color: #ffc3c3 ;
-	border-radius: 10px;
-	padding: 3px;
-	text-decoration-style: italic;
-
-}
-
-a:hover{
-	background-color: #FF0000;
-}
-
 h1{
 	text-align: center;
 	text-transform: uppercase;
