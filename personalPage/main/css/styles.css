@@ -10,8 +10,25 @@ main{
 	margin-left: 2%;
 	margin-top: 4%;
 	float: right;
-
 }
+
+nav{
+	margin-left: 2%;
+	padding: 1%;
+	background-color: #000033;
+	border-radius: 8px;
+}
+
+nav a{
+	color: #FFFFFF;
+}
+
+nav a:hover{
+	background-color: #FFFFFF;
+	color: #0000FF; 
+	border-radius: 5px;
+	padding: 2px;
+}	
 
 main p{
 	padding: 3%;
