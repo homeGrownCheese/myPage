@@ -3,13 +3,24 @@ body{
 	width: 100%;
 }
 
-main{
+/*.second{
+	color: #FFFFFF;
+	text-align: center;
+	font-size: 45px;
+}
+*/
+.index{
 	display: inline-block;
 	width: 70%;
 	/*border: solid #0000ff;*/
 	margin-left: 2%;
 	margin-top: 4%;
 	float: right;
+}
+
+.active{
+	font-size: 35px;
+	text-decoration: none;
 }
 
 nav{
@@ -66,4 +77,11 @@ li progress{
 h1{
 	text-align: center;
 	text-transform: uppercase;
+}
+
+footer{
+	width: 70%;
+	margin-left: 2%;
+	margin-top: 4%;
+
 }
