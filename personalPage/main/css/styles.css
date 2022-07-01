@@ -85,6 +85,11 @@ footer{
 	margin-top: 4%;
 }
 
+table{
+  padding-top:3%;
+  padding-left:5%
+}
+
 th{
   font-size: 35px;
   padding: 3%;
