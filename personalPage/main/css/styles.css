@@ -83,5 +83,14 @@ footer{
 	width: 70%;
 	margin-left: 2%;
 	margin-top: 4%;
+}
 
+th{
+  font-size: 35px;
+  padding: 3%;
+  text-decoration: underline;
+}
+
+td{
+  padding-left: 4%;
 }
