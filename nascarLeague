@@ -1,3 +1,12 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Shane's Page</title>
+    <link rel="stylesheet" href="personalPage/main/css/styles.css">
+</head>
+<body>
+
 <table>
 <tr><th>Name</th><th>Points</th></tr>
 <tr><td>Chloe </td><td>
@@ -37,3 +46,6 @@
 <tr><td>Chad </td><td>
 644</td></tr>
 </table>
+
+</body>
+</html>
