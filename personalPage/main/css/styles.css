@@ -33,6 +33,9 @@ nav a:hover{
 main div p:nth-child(3){
 	/*color: #FF0000;*/
 }
+main p{
+	margin-right: 4%;
+}
 aside{
 	width: 20%;
 	display: inline-block;
