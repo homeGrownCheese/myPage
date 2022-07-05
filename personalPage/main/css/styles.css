@@ -2,13 +2,6 @@ body{
 	height: 100%;
 	width: 100%;
 }
-
-/*.second{
-	color: #FFFFFF;
-	text-align: center;
-	font-size: 45px;
-}
-*/
 .index{
 	display: inline-block;
 	width: 70%;
@@ -17,12 +10,10 @@ body{
 	margin-top: 4%;
 	float: right;
 }
-
 .active{
 	font-size: 35px;
 	text-decoration: none;
 }
-
 nav{
 	/*margin-left: 2%;*/
 	margin-right: 2%;
@@ -30,11 +21,9 @@ nav{
 	background-color: #000033;
 	border-radius: 8px;
 }
-
 nav a{
 	color: #FFFFFF;
 }
-
 nav a:hover{
 	background-color: #FFFFFF;
 	color: #0000FF; 
@@ -70,7 +59,6 @@ li{
 li progress{
 	width: 60%
 }
-
 h1{
 	text-align: center;
 	text-transform: uppercase;
@@ -84,7 +72,6 @@ footer{
 
 table{
   padding-top:3%;
-  padding-left:5%
 }
 
 th{
