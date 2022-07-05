@@ -88,11 +88,11 @@ img{
   max-width: 500px;
   border: 3px solid #005555;
   height: 10px;
-  border-radius: 2%;
+  border-radius: 25px;
 }
 
 .progress .progress__bar {
   height: 100%;
   width: 45%;
-  background-color: #550011;
+  background-color: #b71d1d;
 }
