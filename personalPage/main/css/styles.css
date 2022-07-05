@@ -55,13 +55,10 @@ main div p:nth-child(3){
 }
 
 aside{
-	/*border: solid #00ff00;*/
 	width: 20%;
 	display: inline-block;
-	
-	
+	backgroung-color: #7eb1c3;
 	bottom:0;
-	
 	margin-left: 2%;
 	padding: 1%;
 }
