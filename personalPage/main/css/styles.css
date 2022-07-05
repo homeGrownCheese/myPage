@@ -30,19 +30,9 @@ nav a:hover{
 	border-radius: 5px;
 	padding: 2px;
 }	
-
-main p{
-	padding: 3%;
-}
-
-main div h2{
-	text-decoration: underline;
-}
-
 main div p:nth-child(3){
 	/*color: #FF0000;*/
 }
-
 aside{
 	width: 20%;
 	display: inline-block;
@@ -85,5 +75,5 @@ td{
 }
 
 img{
-	width: 200px;
+	width: 100%;
 }
