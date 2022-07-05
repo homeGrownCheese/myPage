@@ -40,7 +40,7 @@ main div h2{
 }
 
 main div p:nth-child(3){
-	color: #FF0000;
+	/*color: #FF0000;*/
 }
 
 aside{
