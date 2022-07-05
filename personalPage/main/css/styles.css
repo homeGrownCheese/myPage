@@ -91,9 +91,22 @@ img{
   border-radius: 20px;
 }
 
-.progress .progress__bar {
+.progress .progress__bar1 {
   height: 100%;
-  width: 45%;
+  width: 38%;
   background-color: #b71d1d;
   border-radius: 20px 0px 0px 20px;
 }
+.progress .progress__bar2 {
+  height: 100%;
+  width: 13%;
+  background-color: #b71d1d;
+  border-radius: 20px 0px 0px 20px;
+}
+.progress .progress__bar3 {
+  height: 100%;
+  width: 50%;
+  background-color: #b71d1d;
+  border-radius: 20px 0px 0px 20px;
+}
+
