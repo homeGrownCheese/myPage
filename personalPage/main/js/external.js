@@ -1,1 +1,3 @@
-document.write("Hello World");
+function displayId(element){
+  console.log(element.id);
+}
