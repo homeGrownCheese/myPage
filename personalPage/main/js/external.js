@@ -5,3 +5,11 @@ function displayId(element){
 function setDate(){
   document.getElementById('date').innerHTML=Date();
 }
+
+function showEnglish(element){
+  document.getElementById('japanese').innerHTML = "Shane Hoffman";
+}
+
+function showJapanese(element){
+  document.getElementById('japanese').innerHTML = "シェーン　ホフマン";
+}
