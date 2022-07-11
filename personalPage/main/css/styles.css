@@ -2,7 +2,7 @@ body{
 	height: 100%;
 	width: 100%;
 }
-main{
+.log{
 	display: inline-block;
 	width: 70%;
 	/*border: solid #0000ff;*/
