@@ -1,7 +1,7 @@
 # My Personal Page
 
 ### Markdown practice
-  __this is bold__
+  __this is bold__  
   _italics_
 
 - list
