@@ -1,8 +1,8 @@
 # My Personal Page
 
 ### Markdown practice
-  __this is bold__  
-  _italics_  
+  __this is bold__
+  _italics_
 
 - list
 - items
