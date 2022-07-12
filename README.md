@@ -1,6 +1,6 @@
 # My Personal Page
 
-###Markdown practice
+### Markdown practice
 __this is bold__
 _italics_
 
