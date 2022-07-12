@@ -46,6 +46,7 @@ aside{
 	bottom:0;
 	margin-left: 2%;
 	padding: 1%;
+	border-radius: 0 0 15px 15px;
 }
 
 li{
