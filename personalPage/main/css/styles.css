@@ -12,6 +12,9 @@ body{
 	margin-top: 4%;
 	float: right;
 }
+.lists{
+	display: inline-block;
+}
 .active{
 	font-size: 35px;
 	text-decoration: none;
