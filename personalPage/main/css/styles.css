@@ -12,6 +12,9 @@ body{
 	margin-top: 4%;
 	float: right;
 }
+.nascar{
+	display: inline-block;
+}
 .lists{
 	display: inline-block;
 	vertical-align: top;
