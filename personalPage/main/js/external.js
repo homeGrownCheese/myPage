@@ -16,5 +16,5 @@ function showJapanese(element){
 
 function setMod(){
   const date = new Date(document.lastModified);
-  document.getElementById("mod").innerHTML = date;
+  document.getElementById('mod').innerHTML = date;
 }
