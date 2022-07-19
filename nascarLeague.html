@@ -5,7 +5,7 @@
     <title>Shane's Page</title>
     <link rel="stylesheet" href="personalPage/main/css/styles.css">
 </head>
-<body>
+<body onLoad="setMod">
     
 
     <header>
@@ -89,12 +89,8 @@
 <footer>
 
 <p>This page was last updated on</p>
-<p id="demo"></p>
+<p id="mod"></p>
 
-<script>
-const date = new Date(document.lastModified);
-document.getElementById("demo").innerHTML = date;
-</script>
 
 </footer>
 </body>
