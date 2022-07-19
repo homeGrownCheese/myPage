@@ -16,7 +16,7 @@ body{
 	display: inline-block;
 }
 .lists{
-	display: inline-block;
+	/*display: inline-block;*/
 	vertical-align: top;
 	padding-right: 2%;
 }
