@@ -73,6 +73,7 @@ footer{
 	width: 70%;
 	margin-left: 2%;
 	margin-top: 4%;
+        vertical-align: bottom;
 }
 
 table{
