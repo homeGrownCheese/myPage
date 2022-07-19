@@ -13,3 +13,6 @@ function showEnglish(element){
 function showJapanese(element){
   document.getElementById('japanese').innerHTML = "シェーン　ホフマン";
 }
+
+const date = new Date(document.lastModified);
+document.getElementById("mod").innerHTML = date;
