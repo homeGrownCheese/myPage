@@ -52,7 +52,8 @@ main p{
 aside{
 	width: 20%;
 	display: inline-block;
-	background-color: #7eb1c3;
+	background-color: #4d4e4e;
+	color: #FFFFFF;
 	bottom:0;
 	margin-left: 2%;
 	padding: 1%;
