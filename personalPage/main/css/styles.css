@@ -14,11 +14,13 @@ body{
 }
 .nascar{
 	display: inline-block;
+	width: 70%;
+	float: right;
+
 }
 .lists{
-	/*display: inline-block;*/
+	display: inline-block;
 	vertical-align: top;
-	padding-right: 2%;
 }
 .active{
 	font-size: 35px;
