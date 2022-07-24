@@ -14,7 +14,19 @@ function showJapanese(element){
   document.getElementById('japanese').innerHTML = "シェーン　ホフマン";
 }
 
+
+
+
+
 function setMod(){
+  let text = document.lastModified;
+  document.getElementById("mod").innerHTML = text;
+}
+
+
+
+
+
   const date = new Date(document.lastModified);
   document.getElementById('mod').innerHTML = date;
-}
+
