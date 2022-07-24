@@ -27,6 +27,6 @@ function setMod(){
 
 
 
-  const date = new Date(document.lastModified);
-  document.getElementById('mod').innerHTML = date;
+ // const date = new Date(document.lastModified);
+ // document.getElementById('mod').innerHTML = date;
 
